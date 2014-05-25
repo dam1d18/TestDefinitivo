@@ -1139,7 +1139,7 @@ De 64.0.0.0 a 127.255.25.255
 De 64.0.0.0 a 192.168.0.0
 2
 
-¿Eres el propietario de el programa con el cual estás realizando este test?
+¿Eres el propietario del programa con el cual estás realizando este test?
 Claro que si.
 Si, lo he escrito enteramente yo.
 Es del omnipresente Victor Jurado Uson, estimado compañero del Instituto Pablo Serrano.
