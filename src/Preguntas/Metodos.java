@@ -12,7 +12,8 @@ import java.util.TimerTask;
  * @author Victor
  */
 public class Metodos {
-        public static int Random(int num) {
+
+    public static int Random(int num) {
         int random;
         random = RedondearAlAlza(Math.random() * num);
         return random;
@@ -140,5 +141,26 @@ public class Metodos {
             }
         }
         return l;
+    }
+
+    public static String DevolverLetra(int i) {
+        String letra = "";
+        switch (i) {
+            case 1:
+                letra = "a";
+                break;
+            case 2:
+                letra = "b";
+                break;
+            case 3:
+                letra = "c";
+                break;
+            case 4:
+                letra = "d";
+                break;
+            default:
+                break;
+        }
+        return letra;
     }
 }
