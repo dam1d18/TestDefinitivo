@@ -1,0 +1,69 @@
+Los discos duros SSD utilizan una tecnologia de tipo:
+Magnetica
+Solida
+Flash
+Optica
+3
+
+Las bahias de memorias RAM:
+Son retrocompatibles respecto a la memoria principal
+Al colocar la memoria RAM solo tienen una posicion
+Tambien se pueden usar para conectar una tarjeta de video
+Todas son correctas
+2
+
+DVD  significa:
+Disc Video Digital
+Digital Video Disc
+Digital Versatile Disc
+Ninguna de las anteriores es correcta
+3
+
+Las placas base que no utilizan puentes para su configuracion se denominan:
+Placas base no programables
+Jumperless
+DIP-Switches
+Ninguna de las anteriores
+2
+
+Los PCMCIA son:
+Slots de expansion para servidores
+Slots de expansion para ordenadores de sobremesa
+Slots de expansion para ordenadores portatiles
+Slots de expansion para cualquier tipo de ordenador
+3
+
+La longitud maxima recomendable de un cable USB es de:
+3 metros
+4 metros
+5 metros
+6 metros
+3
+
+El numero maximo de USB que se pueden conectar a un equipo es de:
+63
+127
+128
+255
+2
+
+250 base 10 en binario es:
+11100011
+11111010
+01110100
+01020110
+2
+
+La parte tangible de un sistema informatico se denomina:
+Software
+Hardware
+BIOS
+Hot-Swap
+2
+
+Las IRQ son:
+Las lineas de interrupcion que utilizan los dispositivos para avisar al procesador
+Las lineas de interrupcion que utiliza el procesador para avisar a los dispositivos
+Las lineas de interrupcion que utiliza la unidad aritmetico-logica para avisar al procesador
+Todas son correctas
+1

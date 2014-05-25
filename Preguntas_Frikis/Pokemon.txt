@@ -1,0 +1,209 @@
+¿De que tipo es Steelix?
+Roca - Tierra
+Roca - Acero
+Acero - Tierra
+Acero
+3
+
+¿De que tipo es el movimiento Aromaterapia?
+Normal
+Planta
+Psiquico
+Fantasma
+2
+
+¿A que nivel evoluciona Totodile en Croconaw?
+16
+18
+20
+22
+2
+
+¿Cual es la potencia del movimiento Colmillo hielo?
+50
+60
+65
+95
+3
+
+¿A que nivel evoluciona Pichu en Pikachu?
+10
+15
+Evoluciona con piedra trueno
+Evoluciona por amistad
+4
+
+¿De que tipo es Sudowoodo?
+Planta
+Roca
+Planta - Roca
+Bicho - Roca
+2
+
+¿De que tipo es Sneasel?
+Hielo - Siniestro
+Hielo
+Hielo - Normal
+Hielo - Lucha
+1
+
+¿De que tipo es el movimiento Bola sombra?
+Psiquico
+Fantasma
+Siniestro
+Fuego
+2
+
+¿Cual es la potencia del movimiento Excavar?
+40
+60
+80
+100
+3
+
+¿Cual de las siguientes MT no puede aprender Mewtwo?
+Trueno
+Llamarada
+Ventisca
+Hidrobomba
+4
+
+¿De que tipo es Pidgeot?
+Volador
+Normal
+Normal - Volador
+Tierra - Volador
+3
+
+¿A que nivel evoluciona Vulpix en Ninetales?
+Con piedra fuego
+30
+25
+32
+1
+
+¿Que baya elimina las quemaduras?
+Baya Meloc
+Baya Safre
+Baya Zreza
+Baya Atania
+2
+
+¿Cuantos PS restaura una Hiperpocion?
+150
+200
+250
+Toda la salud
+2
+
+¿Cuantos PP tiene el movimiento Ascuas?
+15
+40
+30
+25
+4
+
+¿De que tipo es Clefairy?
+Hada
+Normal
+Normal - Hada
+Normal - Psiquico
+1
+
+¿De que tipo es el movimiento Venganza?
+Lucha
+Psiquico
+Normal
+Siniestro
+3
+
+¿A que nivel evoluciona Psyduck en Golduck?
+Con piedra agua
+28
+30
+33
+4
+
+¿Cual es la potencia del movimiento Megapuño?
+60
+80
+100
+120
+2
+
+¿Cual es la potencia del movimiento Explosion?
+150
+200
+250
+300
+3
+
+¿De que tipo es Rayquaza?
+Dragon
+Volador
+Dragon - Volador
+Electrico - Volador
+3
+
+¿A que nivel evoluciona Remoraid en Octillery?
+Por amistad
+25
+18
+36
+2
+
+¿Ditto puede ser hembra?
+No, siempre es macho
+Si, con una probabilidad del 50 %
+No, Ditto no tiene genero
+Si, pero solo con una probabilidad del 5 %
+3
+
+¿Cuantos PS restaura una Max. Pocion?
+200
+300
+250
+Toda la salud
+4
+
+¿Cuantos PP tiene el movimiento Descanso?
+1
+5
+10
+15
+3
+
+¿De que tipo es Scizor?
+Bicho
+Bicho - Acero
+Roca - Acero
+Bicho - Psiquico
+2
+
+¿A que nivel evoluciona Teddiursa en Ursaring?
+25
+30
+20
+Por amistad
+2
+
+¿Con que multiplicador afecta un ataque de tipo agua a un Larvitar?
+x0
+x1
+x2
+x4
+4
+
+¿Cual es la probabilidad de envenenar del movimiento Toxico?
+30 %
+10 %
+75 %
+100 %
+4
+
+¿Cual es el efecto del movimiento Corpulencia?
+Aumenta el ataque y la defensa del usuario
+Aumenta la velocidad del usuario
+Provoca confusion tanto en el objetivo como en el usuario
+Este ataque no tiene ningun efecto
+1

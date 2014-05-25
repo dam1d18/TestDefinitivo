@@ -1,0 +1,1308 @@
+﻿Para crear un usuario con contraseña que comando utilizarias
+Netuseralu /add
+Net user alu 123 /add
+Netuseralu 123 /add
+Net alu 123 /add
+2
+
+¿Para limitar el tiempo de conexion de un usuario , rango de martes a jueves y de 6 a 22 horas?
+Alu /timo m-j, 6-22
+Netuseralu /timo m-j, 6-22
+Netuseralu /time m-j, 6-22
+Net user /time m-j, 6-22
+4
+
+Comando para hacer particiones en Linux
+Sudo fdisk /dev/sdb?
+Sudo fdisk –l
+Sudo fdisk –n
+a y c
+4
+
+¿La conversion de disco basico a dinamico pierde datos? Y ¿dinamico a basico?
+Basico a dinamico hay perdida de datos y de dinamico a basico no hay perdida de datos.
+Basico a dinamico no hay perdida de datos y de dinamico a basico no hay perdida de datos
+Basico a dinamico no hay perdida de datos y de dinamico a basico hay perdida de datos
+Ninguna es correcta
+3
+
+¿Con que programa podemos transformar una aplicacion  .deb a una .rpm o viceversa?
+Converter
+Deb/rpm
+Alien
+No se puede
+3
+
+¿Cual  de estas afirmaciones son correctas?
+Una aplicacion con extension .msi se utiliza para realizar una instalacion en varios equipos simultaneamente pudiendo el usuario del pc decidir cuando instalarla
+Una aplicacion con extension .msi se utiliza para realizar una copia del disco duro en varios equipos simultaneamente
+Una aplicacion con extension .mst  que encapsula (.msi) se utiliza para realizar una instalacion en varios equipos simultaneamente automaticamente impidiendo al usuario la eleccion.
+A y c 
+4
+
+Tipos de topologias
+Anillo, Bus, Malla, Estrella
+Anillo, tren, Malla, Estrella
+circular, Bus, Malla, Estrella
+Anillo, Bus, Malla, triangular
+1
+
+¿Cual es la mascara de subred adaptada de la red 165.100.0.0 teniendo que hacer 1000 subredes?
+255.255.255.0
+255.255.0.0
+255.255.192.0
+255.255.255.192
+4
+
+Numero totales de subredes que tiene esta direccion de red 10.0.0.0/16
+2^10=1024
+2^8=256
+2^16=65.534
+2^0=1
+2
+
+¿Que se necesita para crear un paquete MST?
+EXE
+GPO
+MSI 
+SYS
+3
+
+¿Cual es el significado de las siglas ACL?
+Access Console List
+Account Control Lock
+Access Control List 
+Account Console List 
+3
+
+¿Cual es el comando para hacer copias de seguridad en Linux?
+du
+dd 
+xcopy
+mkfs -c
+2
+
+Indica cual no es una topologia de red valida
+Mixta
+Anillo
+Estrella
+Cruzada
+4
+
+Queremos conectar un PC con otro PC, ¿Que tipo de cable usaremos?
+Cable directo
+Cable cruzado
+Cable coaxial
+RJ-45
+2
+
+La direccion IP 230.40.10.2 es de clase…
+D
+C
+B
+Ninguna de las anteriores
+1
+
+La direccion IP 192.168.256.2 es de clase…
+B
+C
+A
+Ninguna de las anteriores
+4
+
+Indica correctamente el orden de la capa OSI (1 a 7)
+Fisica, Enlace, Red, Transporte, Sesion, Presentacion, Aplicacion.
+Fisica, Red, Enlace, Transporte, Presentacion, Aplicacion, Sesion.
+Fisica, Enlace, Red, Transporte, Sesion, Aplicacion, Presentacion.
+Fisica, Enlace, Red, Sesion, Transporte, Aplicacion, Presentacion.
+1
+
+El protocolo UDP, pertenece a la capa de…
+Sesion
+Red
+Transporte
+Enlace
+3
+
+10.El proceso por el cual se envia un paquete de un host a un grupo seleccionado de hosts se conoce como…
+Broadcast
+Unicast
+Loopback
+Multicast
+4
+
+¿Cual de estas afirmaciones sobre las redes SOHO NO es correcta?
+Sus siglas significan Small Office/Home Office.
+Permiten compartir recursos como por ejemplo, una impresora.
+Se utilizan en oficinas pequeñas.
+a y b son falsas.
+4
+
+¿Cual de estos elementos lo clasificariamos en una red como un Host?
+Impresora local.
+Impresora de red.
+Switch.
+Escaner.
+2
+
+¿De que clase es esta red?: 228.45.2.1
+Clase B.
+Clase C.
+Clase D.
+Clase E.
+3
+
+¿Cual de estas afirmaciones sobre los cables cruzados y directos NO es correcta?
+Los cables cruzados tienen los mismos patrones de terminacion en ambos extremos, mientras que los directos no.
+La organizacion TIA/EIA es la que define los patrones o esquemas de cableado.
+El T568A es un patrón de terminacion.
+El T568B es un patrón de terminacion.
+1
+
+¿Que MAC de destino tendra un paquete con una direccion Broadcast?
+AA:AA:AA:AA:AA:AA
+AA:BB:CC:DD:EE:FF
+FF:FF:FF:FF:FF:FF
+En un paquete con una direccion Broadcast solo es necesario la direccion IP.
+4
+
+¿Que protocolo se utiliza para asignar IPS de manera dinamica en una red?
+DNS.
+DHCP.
+NAT.
+FTP.
+2
+
+En una red de clase B, ¿cual es el rango reservado para direcciones privadas?
+Del 128.0.0.0 al 191.0.0.0
+Del 172.16.0.0 al 172.31.0.0 
+Las direcciones privadas solamente se pueden aplicar en redes de clase D y E.
+Todas las anteriores son falsas.
+2
+
+¿A que RAID pertenece la imagen de al lado?
+RAID 0+1
+RAID 1+0
+RAID 5
+RAID 3
+2
+
+¿Que forma de asignar direcciones IP es mejor para evitar posibles errores de entrada?
+De forma estatica.
+De forma dinamica.
+Mediante NAT.
+En cualquier forma los errores son muy comunes.
+2
+
+Indica que afirmacion NO es correcta sobre los RAID.
+Es el acronimo de Redundant Array of Inexpensive Disks.
+Un RAID 5 necesita un minimo de 3 discos para poder hacerlo.
+Podemos configurar un RAID tanto por hardware como por software.
+El RAID 0 es tambien conocido como RAID espejo.
+4
+
+Si tenemos una configuracion de raid 0. ¿Cual de estos inconvenientes son ciertos?
+No es verdaderamente un disco RAID
+Un error en uno de los disco implica la perdida total de los datos.
+No tiene ningun inconveniente, es totalmente fiable
+y   son correctas
+4
+
+¿Cuantos discos se necesitan para hacer un RAID 5 en Windows?
+Dos discos
+Tres discos
+Cuatro discos
+Cinco discos
+2
+
+¿Cual es  el tipo  de  volumen que  duplica los datos en dos discos fisicos. Proporciona redundancia de datos, ya que un disco es copia exacta del otro?
+Volumen distribuido
+Volumen seccionado
+Volumen reflejado
+Volumen RAID-5
+3
+
+¿A cual de los privilegios de Windows se refiere, la capacidad de acceder a un objeto concreto de forma determinada?
+Permiso
+Derecho
+Ninguno 
+ y Son verdaderas
+1
+
+¿Que significan las siglas SID en los usuarios de Windows?
+Sound Interface Device (Dispositivo de Interfaz de Sonido)
+Security IDentifier ( Identificador de Segurida
+Servicio Inalambrico de Dispositivos
+Ninguna es verdadera.
+2
+
+¿Cuales son las dos cuentas de usuarios especiales en Windows, ya creadas y que no pueden ser modificadas o eliminadas?
+Administrador y usuario estandar
+Usuario estandar y cuenta de invitado
+Administrador y la cuenta de invitado
+Usuario estandar y administrador
+3
+
+Entre las operaciones de seguridad que el administrador (superusuario) de linux, debe definir en un sistema informatico, tanto para el servidor como para la red corporativa estan:
+Activar y revisar los registros históricos de incidencias.
+Realizar revisiones periódicas sobre posibles cambios no deseados en el sistema.
+Instalar aplicaciones y dispositivos que protejan a los servidores y a la red informatica (sistemas de deteccion de intrusos, cortafuegos, filtros, lectores de tarjetas de acceso, etc.)
+  y  son correctas
+4
+
+¿Cual de las siguientes  caracteristicas son validas  para el  uso de discos en RAID en linux? 
+Aumentar la velocidad de acceso a los datos.
+Incrementar la capacidad de almacenamiento, combinando discos de menor capacidad en un unico disco logico mayor.
+Mejorar la tolerancia a fallos de los discos.
+  y  son correctas
+1
+
+¿Que significa cuanto mayor sea el prefijo de red?
+Mas redes distintas puede haber
+Mas equipos puede haber en una red
+No significa nada el prefijo, porque siempre es igual el numero de redes e igual el numero de equipos
+Importa más el sufijo de red, porque es el que hace distinta las redes.
+1
+
+En las tablas de enrutamiento indica “cualquier red no especificada”, es el prefijo de una direccion de la clase A, que esta reservada para la direccion generica:
+Prefijo 127
+Prefijo 0
+Prefijo 1
+Prefijo 64
+2
+
+¿Que significa ACL?
+A: Access Control Lost.
+B: Access Count List.
+C: Access Control List.
+D: Access Central Line.
+3
+
+¿Cual es el orden de restriccion de mayor a menor de los permisos de archivo?
+A: Control total, lectura y ejecucion, modificar, escribir, leer.
+B: Control total, modificar, lectura y ejecucion, escribir, leer. 
+C: Control total, lectura y ejecucion, modificar, leer, escribir.
+D: Control total, modificar, lectura y ejecucion, leer, escribir.
+2
+
+¿Cual es el orden de restriccion de mayor a menor de los permisos de carpetas?
+A: Control total, modificar, lectura y ejecucion, listar el contenido de la carpeta, escribir, leer.
+B: Control total, modificar, listar el contenido de la carpeta, lectura y ejecucion, escribir, leer.
+C: Control total, modificar, lectura y ejecucion, escribir, listar el contenido de la carpeta, leer.
+D: Control total, modificar, lectura y ejecucion, escribir, leer, listar el contenido de la carpeta.
+1
+
+El permiso que habilita al usuario a sobrescribir el archivo, cambiar sus atributos y ver el propietario del archivo y sus permisos es:
+A: Escribir.
+B: Modificar.
+C: Lectura y ejecucion.
+D: Ninguno de los tres anteriores.
+1
+
+El permiso que habilita al usuario a ver archivos y subcarpetas en la carpeta, ver sus atributos, el propietario y sus permisos es:
+A: Lectura y ejecucion.
+B: Listar contenido de la carpeta.
+C: Leer.
+D: Ninguna de los tres anteriores.
+3
+
+¿Cuales son los tres tipos de copias de seguridad?
+A: Total, parcial, y por unidad.
+B: Total, incremental, y decrecental.
+C: Total, parcial, y diferencial.
+D: Total, incremental, y diferencial.
+4
+
+¿Cual de estas es una buena sugerencia para realizar copias de seguridad?
+A: Nunca borrar una copia completa antes de tener otra.
+B: Comprobar que las copias de seguridad se realizan correctamente.
+C: No utilizar archivos comprimidos para copias de seguridad.
+D: Las tres anteriores.
+4
+
+¿Cuando es ideal realizar copias de seguridad?
+Cada vez que se realicen cambios.
+Cada día.
+Una vez a la semana.
+Una vez al mes.
+2
+
+En Linux, ¿Cual de estos es un directorio importante del que realizar una copia de seguridad?
+A: /home.
+B: /etc.
+C: /root.
+D: Los tres anteriores.
+4
+
+¿Por que se debe comprimir la copia de seguridad?
+A: La copia se realiza mas rapidamente.
+B: El tamaño de la copia es menor.
+C: Las dos anteriores son correctas.
+D: No se debe hacer.
+3
+
+¿Cual de las siguientes respuestas es una ventaja del RAID 0?
+Aunque pierdas uno de los discos que lo forman, la informacion se mantiene integra.
+Consigues la capacidad de dos discos utilizando solamente uno.
+Mayor velocidad de acceso.
+No existe ese RAID.
+3
+
+¿Que formato tiene una direccion IPv4?
+Dos bloques de ocho bits.
+Cuatro bloques de cuatro bits.
+Ocho bloques de dos bits.
+Cuatro bloques de ocho bits.
+4
+
+¿Cual de las siguientes mascaras de subred es de clase A?
+255.255.0.0
+255.0.0.0
+255.255.255.0
+Ninguna de las anteriores
+2
+
+¿Que es un archivo tar.gz?
+Un archivo comprimido en Linux.
+Un archivo empaquetado en Windows.
+Un archivo comprimido y empaquetado en Linux.
+No es un archivo, sino un compresor de archivos en Linux.
+3
+
+¿Cual de los siguientes tipos de volumen NO existe?
+Seccionado
+Distribuido
+Simple
+Compartido
+4
+
+¿Que es un .msi?
+Un archivo empaquetado de Linux
+Un paquete de instalacion de Windows
+Un paquete de transformacion de Windows
+Un tipo de ejecutable de Windows
+2
+
+¿Que diferencia hay entre un RAID 0+1 y un 1+0?
+El 0+1 es una division de espejos, mientras que el 1+0 es un espejo de divisiones.
+El 0+1 es un espejo de divisiones, mientras que el 1+0 es una división de espejos.
+Ninguna, son dos formas de llamar a lo mismo.
+No existe ninguno de esos dos tipos.
+2
+
+¿Con que precision se puede ajustar el control parental de Windows?
+Una hora.
+Un dia.
+Media hora.
+Windows carece de control parental.
+1
+
+¿Que es el control de cuentas de usuario?
+La interfaz desde la que se administran los usuarios en Windows.
+El permiso que hay que darle a un usuario para que pueda administrar las cuentas de otros usuarios.
+Es una funcionalidad que impide que el sistema sufra cambios no autorizados.
+Es otro nombre del control parental.
+3
+
+¿Como creamos un sistema de archivos ext3 en una unidad de disco en Linux?
+mkfs -t ext3 /dev/hdc1
+mkfs.ext3 /dev/hdc1
+mke2fs -j /dev/hdc1
+Cualquiera de las anteriores sirve.
+4
+
+¿En que fichero guarda Windows 7, por defecto, las cuentas de usuario y sus passwords?
+c:\windows\system32\accounts.msw
+c:\users\all users\config\logins
+c:\windows\system32\config\sam
+c:\users\all users\shadow
+3
+
+Un usuario va a utilizar un sistema Windows de manera temporal. ¿Que tipo de cuenta de usuario es la mas adecuada?
+Invitado
+Limitada
+Administrador
+Ninguna es correcta
+1
+
+En Linux, hay una directorio vacio llamado /carpeta en el que se va a montar un sistema de archivos que hay en sda5 de tipo ext3. Cual es el comando correcto:
+sudo mkfs –t ext3 /dev/sda5 /carpeta
+sudo mount –t ext3 /dev/sda5 /carpeta
+sudo mount –t ext3 /carpeta /dev/sda5
+sudo mount /dev/sda5 /carpeta –t ext3
+2
+
+Que comando se puede usar en Linux para comprobar la consistencia de un sistema de archivos:
+chkdsk
+scandisk
+fstab
+fsck
+4
+
+¿Que se debe escribir en el terminal para hacer un clonado del disco sda en un fichero en /carpeta/backup_sda?
+sudo dd if=/dev/sda of=/carpeta/backup_sda bs=1M
+sudo dd in=/dev/sda1 out=/carpeta/backup_sda bs=1M
+sudo dd in=/dev/sda out=/carpeta/backup_sda bs=1
+sudo dd if:/dev/sda of:/carpeta/backup_sda bs:1
+1
+
+Utilizando el commando tar en Linux, que se debe escribir para desempaquetar y descomprimir un fichero llamado archivo.tar.gz:
+tar xvf archivo.tar.gz
+tar xzvf archivo.tar.gz
+tar -xvf archivo.tar.gz
+tar -xzvf archivo.tar.gz
+2
+
+¿Cuantos discos hacen falta, como minimo, para montar un RAID de tipo 5?
+5
+4
+3
+2
+3
+
+En Windows si tenemos un solo disco dinámico, que tipo de volumen podremos poner:
+Simple
+Distribuido
+Seccionado
+Ninguno, no se puede crear un volumen con un solo disco
+4
+
+Mayormente, cual es la topologia de red mas utilizada:
+De anillo
+De bus
+De estrella
+De malla
+3
+
+En cual de las siguientes conexiones se necesitaria usar un cable UTP directo:
+De PC a otro PC
+De PC a puerto de HUB
+De PC a puerto de router
+De puerto de router a puerto de router
+2
+
+¿Que es un Switch?
+Dispositivo de red que opera en la capa de enlace de datos del modelo OSI.
+Una sentencia de Java.
+Dispositivo encaminador de paquetes.
+B y C son correctas.
+1
+
+¿Cual es la cantidad de redes y host por red posibles con una direccion de tipo C?
+2865 redes y 4369 host.
+1 red y 1 host.
+2097150 redes y 254 host.
+16382 redes y 16777214 host.
+3
+
+¿Cuales son los niveles de la capa modelo OSI?
+Nivel de Aplicacion, Nivel de Sesion, Nivel Transporte y Nivel Fisico.
+Nivel Transporte, Nivel de Red, Nivel gestion, Nivel enlace de datos.
+Nivel presentacion, Nivel Físico, Nivel de red, Nivel sesion.
+Nivel Aplicacion, Nivel  Sesion, Nivel Presentacion, Nivel transporte, Nivel enlace de datos, Nivel de red, Nivel Fisico.
+4
+
+¿Como podemos desactivar la UAC?
+Desde msconfig.
+Mediante Regedit o Politicas de grupo.
+Desde el panel de control.
+Todas las anteriores son correctas.
+4
+
+¿Tipos de cuentas de usuarios en Windows?
+Administrador e Invitado.
+Estandar, Administrador e Invitado.
+Limitada y Administrador.
+A y B son correctas.
+2
+
+¿Que es un NAS?
+Servidor de acceso a la red.
+Tecnologia de almacenamiento
+A y B son correctas.
+Un tipo de protocolo de red.
+3
+
+¿Cuantos discos necesitamos minimo para un RAID 5?
+4
+5
+6
+3
+3
+
+¿Cuales de estos sistemas de ficheros pertenecen a Linux?
+Ext2, XFS, ISO9660,NTFS.
+Fat32, Ext2.
+Ext2, ReiserFS,XFS,JFS.
+MFS,UDF.
+3
+
+¿Cual es la direccion de broadcast para la subred 1022 de la direccion 165.200.0.0/26?
+165.200.255.127
+10.0.0.20
+127.110.1.0
+192.167.85.68
+1
+
+¿Cuales son las direcciones asignables a la 11 subred util de la direccion 93.0.0.0/19?
+93.0.191.255
+93.62.3.0
+93.1.95.254
+127.0.0.0
+3
+
+Indica cual de las siguientes afirmaciones es incorrecta acerca del volumen distribuido:
+Permite la agregacion de hasta 32 discos duros.
+También se denomina Spanned.
+Solo se puede llevar a cabo por hardware.
+Permite la agregacion de particiones de distintos discos duros.
+3
+
+¿Cual de los siguientes Sistemas Operativos no esta dedicado integramente a la virtualizacion?
+XenServer.
+Proxmox.
+Vmware Sphere.
+Aptitude.
+4
+
+Indica la frase correcta acerca de los cables directos:
+Se utilizan para la interconexion de dispositivos disimiles.
+Los dispositivos que interconecten transmitiran datos por los pines 2 y 6 y los recibiran por los 3 y 6.
+Se utilizan para la interconexion de dispositivos similares.
+Sirve para interconectar dos routers.
+1
+
+¿Cual de los siguientes comandos abre las conexiones de red directamente?
+lusrmgr.msc
+ncpa.cpl
+netmgn.adm
+msconfig.exe
+2
+
+¿Cual de los siguientes tipos de cuentas de usuario en Windows no viene desactivada por defecto?
+Cuenta estandar o limitada.
+Cuenta de Administrador.
+Cuenta de Invitado.
+Todas vienen activadas por defecto.
+1
+
+Indica cual de las siguientes afirmaciones acerca de los sistemas de ficheros es incorrecta:
+Se revisan cada 180 dias automaticamente.
+Se revisan cada 39 montajes.
+Solo se revisan cada 39 montajes o 180 dias, lo que tenga lugar primero.
+Los sistemas de ficheros solo son revisados por el administrador del sistema cuando el estime que la integridad del mismo se ha visto comprometida.
+3
+
+¿Que tipo de raid usarias sobre un sistema para evitar realizar copias de seguridad?
+RAID 5.
+RAID 1.
+RAID 0.
+Un raid no te exime de realizar copias de seguridad.
+4
+
+Indica cual de las siguientes frases acerca de las topologias de red es correcta:
+En una red de topologia Token Ring se necesita una NIC de entrada y otra de salida.
+En una red de topologia Bus los extremos del cable se terminan con una resistencia denominada terminador con una carga de 50 Ω.
+En una red de topologia en Estrella, los dispositivos (host) no estan directamente conectados entre si.
+Todas las respuestas anteriores son correctas.
+4
+
+Indica cual es la respuesta incorrecta acerca de los siguientes tipos de redes:
+P2P, Peer to Point.
+CAN, Campus Area Network.
+MAN, Metropolitan Area Network.
+WAN, Warm Area Network.
+4
+
+Indica cual es la respuesta falsa acerca de los paquetes MST:
+Paquetes de instalacion que permiten instalar en red programas, impidiendo al usuario toda accion sobre la misma.
+Paquetes de instalacion que necesitan que los usuarios a los que va dirigida dicha instalacion esten bajo un dominio.
+Paquetes de instalacion  que contienen todos los datos del programa y las confirmaciones necesarias para proceder a su instalacion.
+Paquetes de instalacion que automatizan la instalación en red sobre los equipos mediante el uso de GPOs.
+3
+
+¿Cual de las siguientes oraciones es falsa?
+una comunicacion en serie la informacion va "una detras de otra".
+una comunicacion duplex en un mismo instante el elemento A envia al elemento B y el elemento B envia informacion al elemento A.
+una comunicacion sincrona igual que el duplex pero hasta que el primero termina de enviar la informacion el segundo no la puede enviar.
+una comunicacion en paralelo permite que circule informacion simultaneamente.
+3
+
+¿Cual de estas afirmaciones es cierta?
+Los dispositivos de interconexion son: modem RTC, modem de cable, ADSL, puntos de acceso inalambrico, Hub, conmutador y puente.
+Los dispositivos de interconexion son: modem RCT, modem de cable, ADSL, puntos de acceso inalambrico, Hab, Switch y Bridge.
+La a y la b son correctas
+Ninguna es correcta
+1
+
+¿Cuales son los tres tipos de usuarios en windows?
+estandar, administradores e invitados
+limitados, administradores e invitados
+estandar, administradores y limitados
+La a y la b son correctas.
+4
+
+¿Como creamos usuarios en windows?
+Con el comando net user nombreusuario/add
+Con el comando net use nombreusuario/add
+Con el comando user nombreusuario/add
+Con el comando net user /add nombreusuario
+1
+
+¿Cual es la ruta de las fuentes desde las que se descargan los repositorios en Ubuntu?
+/etc/apt/list.source
+/etc/apt/sources.list
+/etc/shadow/apt/sources.list
+ninguna de las anteriores.
+2
+
+¿Cual es el tipo de RAID mas seguro?
+RAID 1
+RAID 2
+RAID 5
+RAID 0
+3
+
+¿Como se llama en Windows el comando para crear particiones y RAIDs?
+discpart
+partdisc
+part
+diskpart
+4
+
+¿Que es y de que se encarga el Bridge o puente?
+Es un sistema formado por hardware y software. Ambas redes han de usar el mismo protocolo de comunicaciones. Sus funciones basicas son las de autoaprendizaje, filtrado y reenvio.
+Permite compartir el uso de una linea entre varios ordenadores. Todos los ordenadores conectados a el pueden usar la linea aunque no de forma simultanea. 
+Se caracteriza por no enviar los paquetes a todos los puertos, sino unicamente al puerto correspondiente.
+Ninguna de las anteriores
+1
+
+¿Cual de los siguientes comandos monta una imagen .iso en el directorio indicado?
+sudo mount -o rutaimagen directorio
+sudo mount o loop directorio rutaimagen
+sudo mount loop rutaimagen directorio
+sudo mount -o loop rutaimagen directorio
+4
+
+¿Que comando utilizamos en Linux para la creacion de particiones?
+vdisk
+fdisk
+fdisc
+mkfs
+2
+
+Como definirias un sistema de ficheros de tipo ext4 en Linux?
+mkfs.ext4.
+mkfs –t  ext4.
+mkfs –s ext4.
+a y b son correctas.
+4
+
+¿Cual de estos niveles de abstraccion es de transporte de datos?
+Nivel de red (Capa 3).
+Nivel de transporte (Capa 4).
+Nivel de sesión (Capa 5).
+Ninguna de las anteriores.
+1
+
+¿Cual de estos no es un protocolo?
+DHCP.
+LDAP.
+P2P.
+RPC.
+3
+
+¿Cual de estas redes no es de clase B?
+129.15.16.0
+125.12.20.0
+191.10.10.0
+a y c son correctas.
+2
+
+¿Cuantos discos son necesarios como minimo para un RAID 5?
+Ninguno.
+1.
+2.
+3.
+4
+
+Como comprimirias un archivo si quieres obtener un archivo .tar en Linux?
+gzip -d archivo.tar.
+gzip -q archivo.tar.
+gzip -c archivo.tar.
+gzip -r archivo.tar.
+2
+ 
+¿En una red de clase de clase C el primer octeto comienza por…?
+0.
+1.
+10.
+110.
+4
+
+¿ Cuantas subredes podemos crear en una red de clase A con 12 bits asignados para el host? .
+1024.
+2048.
+4096.
+8192.
+3
+
+¿En una red de clase C con 32 subredes cuantos bits se utilizaran para el host? 
+3.
+4.
+5.
+6. 
+1
+
+¿Si tenemos una red de clase B con 1024 subredes cual será la mascara de subred adaptada?
+255.255.255.224.
+255.255.224.0
+255.255.255.192.
+255.255.192.0
+3
+
+¿Cuantos bits tiene cada uno de los campos de una direccion IP (version IPv4)?
+ 32
+ 16
+ 8
+ 0
+3
+
+¿Que es un encaminador?
+ Un estilo de cables.
+ Un router.
+ Un adaptador.
+ Ninguna de las anteriores
+2
+
+Una direccion IPv6:
+ Soporta un numero mayor de nodos direccionables.
+ Tiene mas niveles de direcciones jerarquicas.
+ Tiene una autoconfiguracion más sencilla de las direcciones.
+ Todas son correctas.
+4
+
+Cuantos dispositivos se pueden conectar a la vez a una red Ad hoc:
+ 4
+ 2
+ 10
+ 16
+3
+
+¿Cual de estas afirmaciones es falsa? Los tres aspectos fundamentales de la seguridad basica de una red son:
+ Confidencialidad: mantenerla lejos de personas no autorizadas.
+ Integridad: impedir que pueda ser modificada o borrada.
+ Disponibilidad: permitir que pueda ser consultada en cualquier momento.
+ Mantenimiento: Mantenimiento continuo a partir de una serie de administradores.
+4
+
+El cifrado con clave privada:
+ Se utiliza una sola clave para cifrar y descifrar la informacion.
+ Se utiliza una sola clave para cifrar la informacion.
+ Se utiliza para descifrar la informacion de una clave.
+ Ninguna es correcta.
+1
+
+La ip 192.70.10.0 es de clase:
+ B
+ C
+ A
+ Media
+2
+
+Que es un repositorio "Universe" (Ubuntu):
+ Paquetes que se instalan por defecto y que tienen soporte oficial.
+ Paquetes mantenidos por la comunidad de Ubuntu.
+ Paquetes que tienen limitaciones de copyright.
+ Ultimas versiones de los paquetes del archivo proporcionados por la comunidad.
+2
+
+¿Cual de estas caracteristicas sobre una direccion de clase A es falsa?
+ El primer bit es un 0.
+ Tiene 128 subredes posibles de tipo A.
+ Comprende desde 0.0.0.0 hasta 127.255.255.255
+ Tiene 65.534 hosts distintos.
+4
+
+¿Que comando utilizarias para crear un usuario en Windows con contraseña obligatoria?
+new   user   alumno   /password   123
+new   user   alumno   /add
+net   user   alumno   /add   /password
+net   user   alumno   123   /password:yes   /add
+4
+
+¿Como se gestionan las particiones de un disco duro?
+En cmd:    sudo fdisk /dev/sdb
+En entorno gráfico:    Gparted
+a y b son correctas
+Ninguna
+3
+
+¿Que comando utilizarias para crear un sistema de ficheros ext4?
+sudoumount   -t   ntfs   /dev/sdb1
+mkfs   -t   ext4   /dev/sdb1
+mkdir   /nuevofichero   ext4
+sudo   mkfs.ext4   /dev/sdb1
+4
+
+¿Que realiza el comando ‘dd’?
+permite copiar un sistema de ficheros
+muestra los sistemas de ficheros con los porcentajes de su uso
+muestra todos los directorios y sus ficheros
+todas son ciertas
+1
+
+¿Que realiza la siguiente linea de comando ‘tar   xvf   paquete.tar’?
+Nombra un paquete
+Empaqueta un archivo
+Muestra el contenido de un paquete
+Extrae el contenido de un paquete
+4
+
+¿Que caracteriza un RAID 1?
+Es redundante
+No pierde espacio de almacenamiento
+Minimo 3 discos
+Todas son ciertas
+1
+
+Si queremos instalar un programa (en Windows) en varios equipos informaticos y que el cliente no pueda negarse a instalarlo, ¿Que tipo de archivo envia el server?
+.exe
+.msi
+.msi y .mst
+.exe y. msi
+3
+
+¿Cuales son niveles del modelo OSI?
+Aplicacion, transporte y psiquico
+Aplicacion, red  y fisico
+Sesion, red y social
+Presentacion, traduccion y fisico
+2
+
+¿Cual de las siguientes direcciones ip es de clase B?
+192.168.18.33
+116.25.3.114
+127.102.60.2
+129.250.0.10
+4
+
+Calcula para la siguiente direccion de red 93.0.0.0/19 ¿cual es la direccion de difusion (broadcast) para la 6ª sudred util?
+93.0.223.225
+93.1.181.255
+93.0.223.1
+93.0.0.255
+1
+
+¿Que es Autorizacion?
+ Es identificarse como un usuario ante el sistema.
+ Es la capacidad que tiene un recurso para realizar acciones sobre el sistema.
+ Es la capacidad que tiene un usuario ante un determinado recurso.
+ Ninguna es correcta.
+3
+
+¿Que comando permite acceder a la consola de gestion de usuarios locales?
+ Lusrmgr.msc
+ Services.msc
+ gpedit.msc
+ secpol.msc
+1
+
+¿Que tipos de cuentas de usuario existen en Windows?
+ Locales, y moviles.
+ No existen cuentas, solo usuarios.
+ Cuentas  normales y de administrador.
+ Cuentas estandar o Limitadas, de administrador y de invitado.
+4
+
+¿Cuál de estas no es una categoría del registro de Windows?
+ HKEY_CURRENT_USER
+ HKEY_CONFIGURE_LOCAL_USERS
+ HKEY_USERS
+ HKEY¬_LOCAL_MACHINE
+2
+
+¿En que tipo de Raid, los datos se distribuyen en varios discos obligatoriamente iguales, tiene gran velocidad de lectura y escritura pero no tiene tolerancia a fallos?
+ Raid 0 o Volumen seccionado.
+ Raid 1 o Mirror.
+ Raid 0+1.
+ Raid 5.
+1
+
+6 En un sistema operativo Linux ¿Que comando empaqueta y comprime ficheros al mismo tiempo?
+ > tar czvf paquete.tar.gz fichero1, fichero2
+ > tar tzvf paquete.tar.gz fichero1, fichero2
+ > tar xzvf paquete.tar.gz fichero1, fichero2
+ Ninguna de las anteriores es correcta
+1
+
+7 ¿Que topologia de red es una red TOKEN RING?
+ Topologia en estrella
+ Topologia en malla
+ Topologia de fibra
+ Topologia en anillo
+4
+
+8 ¿Que podemos identificar como “host” en una red?
+ PC’s y servidores 
+ Routes
+ Witches y Hubs
+ La  y la  son correctas
+4
+
+9 Segun el modelo OSI, ¿Que posicion ocupa la capa de red?
+ 1
+ 5
+ 7
+ 3
+4
+
+10 ¿En formato decimal, cual seria el equivalente a la mascara de subred /19 dada en formato CIDR?
+ 255.255.224.0
+ 255.255.192.0
+ 255.255.128.0
+ 255.255.240.0
+1
+
+Si se aplica una mascara de red 255.255.255.192 sobre la direccion de red 192.168.2.0 quiere decir que:
+Se usan 2 bits de red para las direcciones de host.
+Se usan 2 bits de host para las direcciones de red.
+Se ha aplicado la mascara de red estandar para redes de tipo C
+Ninguna de las anteriores
+2
+
+La IP 8.8.8.8:
+Es una IP de clase A.
+Es una IP de clase B.
+Es una IP de Clase C.
+No es una IP, es un servidor de Google.
+1
+
+RAID significa:
+Redundant Array Inexpensive Disks
+Redundant Array of Independent Disks
+Redundant Array of Independent Disks
+RAID no significa nada.
+2
+
+Señala la falsa:
+Una IP privada es aquella que le ponemos a nuestro ordenador.
+Una IP privada puede ser de cualquier clase.
+En internet “nos conocen” por nuestra IP pública
+La IP pública y la IP privada tienen que estar en la misma red.
+4
+
+La division de datos a nivel de bloques que distribuye la informacion de paridad entre los distintos discos que forman un RAID se trata de:
+RAID 1
+RAID 0
+RAID 5
+RAID 1+0
+3
+
+La IP 192.168.0.125/26 pertenece a la subred:
+192.168.0.0
+192.168.0.64
+192.168.0.128
+192.168.0.192
+2
+
+Señala la falsa:
+Un cable UTP directo se usa para conectar dispositivos de diferentes capas
+Un cable UTP cruzado tiene los extremos con normas diferentes(A y B o B y 
+Para conectar dos ordenadores se usa un cable cruzado
+Todas son falsas
+4
+
+El numero de capas del modelo OSI son:
+ Una
+ Cuatro
+ Seis
+Ninguna de las anteriores
+4
+
+El disco de reserva en tecnologias RAID se denomina:
+ Hot Swap
+ Hot Spare
+ Hot Disk
+ No tienen disco de reserva
+2
+
+La implementacion del protocolo SMB sobre Linux se denomina:
+ No se puede implentar SMB en sistemas Unix
+ SAMBA
+ SMB
+ Server Message Block
+2
+
+¿En un raid cuando hay perdida de datos?
+a.De dinamico a basico.
+b.De basico a dinamico.
+c.En ambos casos.
+d.En ningun caso.
+1
+
+¿Que es HOT SPARE?
+a.Sistemas de alta disponibilidad.
+b.Sistemas de intercambio en caliente.
+c.Sistemas de alta temperatura.
+d.Sistemas  de baja disponibildad.
+1
+
+¿Que son los ISP?
+a.Es una compañia que ofrece acceso a Internet: Ono, telefonica…
+b.Internet Support Periferal.
+c.Es un tipo de codificacion.
+d.Intranet System Print.
+1
+
+Que uso se da a los diferentes tipos de IP.
+a.Tipo a:privada, tipo b:privada, tipo c: publica.
+b.Tipo a:publica,tipo b:grandes empresas y pequeños proveedores de internet, tipo c:privada.
+c.Todos los tipos son privados.
+d.Todos los tipos son publicos.
+3
+
+¿Cual de estos tipos de conectores no existe?
+a.Cable de par sin trenzar
+b.Cable de par trenzado
+c.Cable triaxial
+d.Cable coaxial
+3
+
+¿Puedes tener un firewall que sea en hardware?
+a.Los firewall solo son de software
+b.Los firewall pueden ser de los dos tipos hardware y software
+c.Sí pero estas obsoletos
+d.No hay tecnologia de hardware capaz de bloquear nada.
+2
+
+Tienes que configurar una red de tipo c con  20 subredes ¿Cual es tu mascara de subred?
+a.255.255.255.0
+b.255.255.0.0
+c.255.255.255.248
+d.255.255.255.240
+3
+
+Tienes una  ip sin subredes ¿Cuantos host tienes, y host utiles?
+a.256 host y 254 utiles
+b.255 host y 253 utiles
+c.254 host y 256 utiles
+d.253 host y 255 utiles
+1
+
+Cuantos octetos tienen la direccion de red y de host de tipo A
+a.1 octeto la direccion de red y dos de host
+b.2 octetos la direccion de red y tres de host
+c.1 octeto de direccion de red y 3 de host
+d.3 octetos de direccion de red y 1 de host.
+3
+
+¿Puedes tener mas de 254 terminales conectados  a un router?
+a.No
+b.Si, tienes que configurar diferentes subredes.
+c.Si, puedes conectar todos los terminales que quieras
+d.Solo si son terminales de tipo ordenador .
+2
+
+¿De que octetos podemos coger bits para hacer subredes en una clase B?
+Todos
+Segundo, tercero y cuarto
+Cuarto
+Tercero y cuarto
+4
+
+¿Cual no es un sistema de archivos?
+NFTS
+HPFS
+ext4
+ext5
+4
+
+¿Que extension tienen los paquetes de instalacion de Windows?
+msi
+mps
+Zip
+tar
+1
+
+¿Cual es el significado de NAT?
+Network Address Transition
+Network Address Tranlating
+Network Address Translation
+Network Algoritm Truncator
+3
+
+¿Cual es el rango de direcciones IP de clase B?
+De 192.168.0.0 a 211.0.0.255
+De 128.0.0.0 a 191.255.255.255
+De 64.0.0.0 a 127.255.25.255
+De 64.0.0.0 a 192.168.0.0
+2
+
+¿Eres el propietario de el programa con el cual estás realizando este test?
+Claro que si.
+Si, lo he escrito enteramente yo.
+Es del omnipresente Victor Jurado Uson, estimado compañero del Instituto Pablo Serrano.
+No tengo ni idea de quien puede ser
+3
+
+¿Cuantos bits tienen una IPv4?
+30
+31
+32
+33
+3
+
+¿Que es la MAC?
+Protocolo de comunicacion entre routers
+Codigo unico que se asigna a cada tarjeta de red
+Tipo de subred
+Un nombre de usuario para internet
+2
+
+¿Cuantos bits se utilizan en las IPv6?
+64 bits
+256 bits
+128 bits
+32 bits
+3
+
+¿Cuantos discos necesitamos (como minimo) para hace un RAID 1 en Windows?
+1 
+2 
+3 
+4 
+2
+
+¿Que afirmacion es correcta?
+En las redes de clase A el primer octeto va de 1 a 126
+En las redes de clase B el primer octeto va de 128 a 191
+En las redes de clase C el primer octeto va de 192 a 223
+Todas las anteriores
+4
+
+¿En que caso se recomienda la utilización de un RAID-0?
+ Cuando queremos protegernos frente a posibles perdidas de datos.
+ Cuando vamos a realizar copias de seguridad frecuentemente.
+ Cuando necesitamos asegurar la integridad del sistema de archivos.
+ Cuando queramos obtener mayor rendimiento de nuestros discos.
+4
+
+Si tenemos un volumen reflejado (informacion duplicada en dos discos) tambien podemos hablar de...
+ Un sistema de seguridad contra virus.
+ RAID-0
+ RAID-1
+ RAID-5
+3
+
+¿Que es fstab?
+ Un comando que nos permite crear particiones en linux.
+ Es un archivo que emplean varios sistemas operativos para almacenar informacion sobre el montaje de los dispositivos fisicos.
+ Es un archivo de linux que podemos utilizar para reproducir CD's en nuestro equipo.
+ Es un tipo de particion que ya ha quedado en desuso
+2
+
+Si identificamos una red mediante la IP 121.0.0.0, ¿de que clase es esa IP y cual es la mascara de red por defecto?
+ Es de clase A. Mascara de red por defecto 255.0.0.0
+ Es de clase B. Mascara de red por defecto 255.255.0.0
+ Es de clase C. Mascara de red por defecto 255.255.255.0
+ Se trata de una direccion sin clase.
+1
+
+¿Como obtendrias informacion acerca de los sistemas de archivos montados actualmente en el sistema?
+ Utilizando simplemente el comando mount
+ Consultando el archivo /etc/fstab
+ Consultando el archivo .bashrc
+ Viendo el sistema de archivos desde la raíz y comprobando qué carpetas nuevas nos encontramos.
+1
+
+Si en un sistema Windows existen varios usuarios a los que queremos otorgar privilegios de seguridad similares nos convendra...
+ Asignar un SID con el mismo prefijo a todos ellos
+ Tener cuidado para que no interfieran unos con otros a la hora de conectarse al sistema.
+ Crear un script que genere las cuentas de usuario y otorgue los permisos de forma automatica.
+ Incluirlos en un grupo de usuarios con los privilegios que vayan a compartir
+4
+
+Si queremos crear 50 subredes que deberemos hacer con la mascara de red.
+ Cambiar el primer cero que nos encontremos en la mascara de red por un 50
+ Sumar 50 al último número de la mascara de red
+ Añadir 111111 al final de la mascara de red en binario.
+ Sustituir los primeros seis ceros por unos en la mascara de red en binario.
+4
+
+Indica cual de las siguientes afirmaciones acerca de las direcciones IPv6 es falsa.
+ Suelen representarse mediante numeros en hexadecimal.
+ Constan de 8 bloques de 16 bits cada uno.
+ Se puede abreviar la notación obviando los bloques de ceros que quedan en medio.
+ No permiten definir subredes.
+4
+
+¿Que protocolo de seguridad recomendarias a un usuario domestico para su red inalambrica?
+ WPA Enterprise
+ WPA Personal
+ Filtrado por dirección MAC
+ Tanto b como c son adecuadas.
+4
+
+Cuando nos referimos a Hot Spare hablamos de:
+ Intercambio de discos en caliente, es decir, mientras estan encendidos.
+ Un tipo de particion perteneciente exclusivamente a los sistemas Linux
+ Sistema de configuracion que nos permite decidir el tamaño maximo de las particiones en un disco duro
+ Un sistema de alta disponibilidad de recambio en el cual podemos cambiar un disco automaticamente sin tener que desconectar
+4
+
+Tenemos un Sistema Operativo Windows 7 y queremos crear un RAID 5 ¿Cuantos discos minimos necesitaremos para este RAID en concreto?
+ No es posible hacer un RAID 5 en Windows 7
+ Necesitaremos al menos 1 disco
+ Necesitaremos minimo 3 discos
+ Como su nombre indica, 5 son obligatorios
+1
+
+Comando que nos permite montar una particion en carpeta:
+ mount C: \Punto de montaje /d
+ mountvol C: \Punto de montaje /create
+ mountvol C: \Punto de montaje
+ mount F:  /vol C: \Punto de montaje
+3
+
+El comando de Linux "purge [aplicación]":
+ Borra un programa
+ Limpia la aplicación para una instalacion mas eficiente dejando solo los ficheros importantes, reduciendo asi su tamaño
+ Desactiva la aplicacion para que no consuma recursos del sistema
+ Ademas de borrar el programa elimina también su configuración
+4
+
+Un fichero con extension .mst:
+ Es un paquete de transformacion
+ Es un .exe
+ Automatiza la instalacion e instala siempre, porque contiene las respuestas de instalacion
+  y  son correctas
+4
+
+El comando tar :
+ Nos permite solo empaquetar
+ Nos permite solo comprimir
+ Nos permite empaquetar y comprimir
+ Ninguna es correcta
+1
+
+NAT sirve para:
+ Modificar nuestra IP dinamica
+ Restaurar la IP a una nueva
+ Cambia la IP privada por una IP publica y así poder ser reconocidos en el exterior
+ Protege nuestro equipo para que nuestra IP no pueda ser leída desde fuera
+3
+
+En una conexion HALF-DUPLEX entre A y B :
+ Se pueden enviar datos pero solo a la mitad de velocidad
+ Hasta que A no termina de enviar no empieza B
+ Solo uno de los dos puede enviar
+ Todas las anteriores son falsas
+2
+
+Si tenemos una red de clase C y necesitamos 10 Host, para una subred necesitamos:
+ 2 bits de subred y 6 de Host
+ 12 bits de subred y 4 bits de Host
+ 4 bits de subred y 4 bits de Host
+ 10 bits de Host y el resto de subred
+3

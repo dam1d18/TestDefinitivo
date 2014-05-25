@@ -1,0 +1,69 @@
+﻿Tipo de zocalo que permite insertar y quitar microprocesadores sin hacer fuerza, ya que lleva una palanca que impulsa todos los pines con la misma presion:
+ZIF
+LGA
+PGA
+Todas las respuestas anteriores son correctas.
+4
+
+Libertad de estudiar como funciona el programa, y adaptarlo a tus necesidades corresponde a la ley del software libre numero:
+0
+1
+2
+2
+3
+
+El transistor y el omnibus aparecen en la:
+Primera generacion de ordenadores.
+Segunda generacion de ordenadores.
+Tercera generacion de ordenadores.
+Cuarta generacion de ordenadores.
+2
+
+Denominacion de la tecnologia que fusiona la tecnologia de procesamiento de AMD y ATI en un solo encapsulado:
+APU.
+GPU.
+CFM.
+CPU.
+1
+
+Bus dedicado de transmision punto a punto, full-duplex:
+PCIx.
+PCMCIA.
+3GIO.
+Todas son correctas.
+3
+
+El tipo de memoria utilizada en memorias de tipo cache es:
+SRAM.
+ROM.
+SDRAM.
+CMOS.
+1
+
+Denominacion que recibe el conjunto de 4 digitos binarios o medio octeto:
+Byte.
+Nibble.
+Bit.
+Nipple.
+2
+
+Definicion de Hyperthreading:
+Tecnologia que permite que el FSB duplique su velocidad de comunicacion entre el microprocesador y el chipset.
+Tecnologia que permite la comunicacion de dos tarjetas graficas identicas mediante el uso de un conector especial  para doblar la potencia grafica en un equipo.
+Tecnologia que permite simular dos procesadores logicos en uno fisico para procesar en paralelo simultaneamente.
+Tecnologia que permite simular dos modulos de memoria RAM logicos en uno fisico para doblar la velocidad de acceso a registros.
+3
+
+Factor de forma de las placas base mas extendido en la actualidad:
+Baby-AT.
+ATX.
+ATP.
+AT.
+2
+
+Identifica la frase correcta acerca del conector SATA:
+Sus siglas significan: Serial Advanced Transport Attachment.
+Sustituye al antiguo conector Molex.
+Posee 7 pines.
+Ninguna es correcta.
+3

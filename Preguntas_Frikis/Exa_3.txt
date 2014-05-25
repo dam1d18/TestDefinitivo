@@ -1,0 +1,69 @@
+De las cuatro libertades del software libre, la libertad de distribucion corresponde a:
+La libertad 0
+La libertad 1
+La libertad 2
+La libertad 3
+3
+
+Un sistema informatico es un conjunto de Hardware, Software y:
+Electricidad
+Programas
+Personal y procedimientos
+Ninguna de las anteriores
+3
+
+En el modelo original de la maquina de VON NEUMANN, no formaba parte de ella:
+Omnibus
+Unidad aritmetico-logica
+Unidad de control
+Memoria
+1
+
+La dimension de las bahias internas es:
+3 un medio
+2U
+5 un cuarto
+7 un medio
+1
+
+El modificar estetica o funcionalmente partes del ordenador es:
+Screwless
+Tacens
+Altering
+Modding
+4
+
+La etapa que transforma de alterna a continua es:
+Transformacion
+Rectificacion
+Filtrado
+Estabilizacion
+2
+
+El conector IEC 320 sirve para:
+Comunicar el disco duro con la placa base
+Conectar la fuente de alimentacion con la red electrica
+Alimentar a los ventiladores auxiliares
+Ninguna de las anteriores
+2
+
+Capacidad de la mantisa en la codificacion IEEE754 con doble precision extendida:
+23 bits
+52
+63
+127
+3
+
+CFM es:
+Modulo de ciclos de frecuencia
+Medida de flujo y volumen de aire por minuto
+Counter-frames Memory
+Medida de intensidad que define el ruido de un ventilador
+2
+
+La velocidad real de un SATA III es de:
+75 MB/s
+150 MB/s
+300 MB/s
+600 MB/s
+4
