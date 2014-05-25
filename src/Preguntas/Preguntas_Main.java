@@ -108,7 +108,22 @@ public class Preguntas_Main {
             } else {
                 nsnc++;
             }
-            System.out.println("SOLUCION--> " + v.getsolucion());
+              
+            switch(v.getsolucion()){
+ case 1: 
+     System.out.println("La respuesta era la A");
+     break;
+ case 2: 
+     System.out.println("La respuesta era la B");
+     break;
+ case 3: 
+    System.out.println("La respuesta era la C");
+     break;
+ case 4: 
+    System.out.println("La respuesta era la D");
+     break;
+            
+            }
             System.out.println("");
         }
         bd.close();
