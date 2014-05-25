@@ -164,7 +164,7 @@ AA:AA:AA:AA:AA:AA
 AA:BB:CC:DD:EE:FF
 FF:FF:FF:FF:FF:FF
 En un paquete con una direccion Broadcast solo es necesario la direccion IP.
-4
+3
 
 ¿Que protocolo se utiliza para asignar IPS de manera dinamica en una red?
 DNS.
@@ -528,7 +528,7 @@ Un tipo de protocolo de red.
 5
 6
 3
-3
+4
 
 ¿Cuales de estos sistemas de ficheros pertenecen a Linux?
 Ext2, XFS, ISO9660,NTFS.
@@ -1060,7 +1060,7 @@ a.Tipo a:privada, tipo b:privada, tipo c: publica.
 b.Tipo a:publica,tipo b:grandes empresas y pequeños proveedores de internet, tipo c:privada.
 c.Todos los tipos son privados.
 d.Todos los tipos son publicos.
-3
+2
 
 ¿Cual de estos tipos de conectores no existe?
 a.Cable de par sin trenzar
