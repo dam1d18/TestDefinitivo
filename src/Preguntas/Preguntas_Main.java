@@ -108,6 +108,7 @@ public class Preguntas_Main {
             } else {
                 nsnc++;
             }
+            System.out.println("SOLUCION--> " + v.getsolucion());
             System.out.println("");
         }
         bd.close();

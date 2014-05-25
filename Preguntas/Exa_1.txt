@@ -1306,3 +1306,136 @@ Si tenemos una red de clase C y necesitamos 10 Host, para una subred necesitamos
  4 bits de subred y 4 bits de Host
  10 bits de Host y el resto de subred
 3
+
+¿Cuál de estas afirmaciones sobre la comparación de usuarios Windows y Linux no es correcta?
+a.	Ambos Sistemas Operativos Cuentan con cuentas de usuarios gestionadas de forma jerárquica, es decir, unas cuantas tienes más privilegios sobre otras y poseen mayor control sobre el sistema que otras.
+b.	A la hora de crear los usuarios, en ambos Sistemas Operativos se les crea un directorio específico para ellos, así como un grupo en el sistema.
+c.	En ambos Sistemas Operativos se pueden crear cuentas de usuarios tanto en modo comando como en modo gráfico siempre y cuando se cuente con los privilegios necesarios en la cuenta.
+d.	El comando de creación de usuarios en Windows es net user, mientras que en Ubuntu el comando de creación de usuarios es adduser.
+2
+
+Windows distingue entre permisos y derechos, ¿Qué diferencia hay entre ellos?
+a.	Un permiso es la capacidad de acceder a un objeto concreto, mientras que un derecho es la capacidad de llevar a cabo una acción concreta en el sistema.
+b.	Un derecho es la capacidad de acceder a un objeto concreto, mientras que un permiso es la capacidad de llevar a cabo una acción concreta en el sistema.
+c.	Un permiso es la capacidad que tiene un usuario de proporcionar funciones al resto de usuarios, mientras que un derecho establece en qué lugares del sistema puede trabajar.
+d.	Ninguna de las anteriores respuestas es correcta, un permiso y un derecho en Windows hace referencia a lo mismo.
+1
+
+En un Sistema Operativo Windows ¿Qué diferencias hay entre un Disco básico y uno dinámico?
+a.	Un disco duro básico hace referencia al disco duro de forma física, mientras que un disco duro dinámico hace referencia al disco duro de forma lógica.
+b.	No hay ninguna diferencia entre discos básicos y disco dinámicos, ambos conceptos hacen referencia a un disco duro.
+c.	Un disco duro dinámico es contenido en un disco duro básico, ya que estos son solo discos en el aspecto de gestión de Sistemas de ficheros.
+d.	Un disco duro básico cuenta con un volumen igual a la partición que representa solo contando con hasta 4 particiones, mientras que los discos duros dinámicos se gestionan en volúmenes y permiten mayor flexibilidad.
+4
+
+¿Cuál de los siguientes comandos es el más correcto para gestionar las particiones o volúmenes de un disco duro?
+a.	El comando “Chkdsk”. 
+b.	El comando “diskpart“.
+c.	El comando “ fstab“.
+d.	Ninguno de los anteriores comandos permite gestionar particiones o volúmenes en Windows.
+2
+
+De estas afirmaciones sobre los RAIDs ¿cuál es correcta?
+a.	La función principal de los RAID es permitir al usuario contar con una gran cantidad de almacenamiento de disco duro.
+b.	Los RAID pueden realizarse solo de forma física, sin importar el tipo de disco duro que se trate.
+c.	El RAID 0, pese a denominarse así, no es considerado como un RAID ya que no cuenta con redundancia.
+d.	Los RAID 1 Cuentan con redundancia copiando el contenido de los discos duros en otros denominados espejos, asignando a su vez tramos de paridad.
+3
+
+En redundancia a fallos se habla de Hot swap y de Hot spare. ¿En qué consisten estos conceptos?
+a.	Hot swap son discos que se reemplazan sin tener que apagar el sistema, basta con quitar uno y poner otro. Hot spare hace referencia a un disco que permanece siempre en el sistema esperando por si uno se estropea entrar directamente en funcionamiento.
+b.	Hot Spare es el acto de unir dos o más disco físicos en un solo disco lógico, mientras que Hot Swap son discos que se reemplazan sin tener que apagar el sistema.
+c.	Hot Spare son discos que se reemplazan sin tener que apagar el sistema, basta con quitar uno y poner otro. Hot swap hace referencia a un disco que permanece siempre en el  sistema esperando por si uno se estropea entrar directamente en funcionamiento.
+d.	Hot swap es el acto de unir dos o más disco físicos en un solo disco lógico, mientras que Hot Spare son discos que se reemplazan sin tener que apagar el sistema.
+1
+
+En lo que refiere a IPv4 ¿Qué clases de redes hay y cuáles son sus diferencias?
+a.	Hay 5 tipos de clases, A, B, C, D, E. La diferencia entre ellas reside únicamente en los octetos de bits que las componen, siendo A 1 octeto,  B dos octetos, C tres octetos, D cuatro octetos y E cinco octetos.
+b.	Solo hay una clase de redes, definida como protocolo TCP/IPv4, el cuál se encarga de identificar a los hosts.
+c.	Hay 3 tipos de clases, A, B, C. La diferencia reside en la máscara de subred que competen y por extensión que octetos de bits identifican a la red y cuales a los hosts.
+d.	Hay 5 tipos de clases, A, B, C, D, E. De las cuales solo las tres primeras son las más usadas. La diferencia reside en la máscara de subred que competen y por extensión que octetos de bits identifican a la red y cuales a los hosts.
+4
+
+¿Cuál es la función de una IP y de una máscara de red en un ordenador?
+a.	Una dirección IP sirve para  identificar un ordenador en una red TCP/IP, mientras que la máscara de red es un compuesto de 4 conjuntos de 8 bits que sirve para delimitar el ámbito de la red.
+b.	La función de la máscara de red es indicar a los dispositivos qué parte de la dirección IP es el número de la red y que parte corresponde a los hosts, las IP están compuestas por 4 conjuntos de 8 bits y dependerán de su pertenencia a una red según la máscara de red.
+c.	Las direcciones IP sirven para identificar a los hosts en una red TCP/IP, mientras que las máscaras de red identifican la pertenencia a una red siendo necesaria solo en los casos que se trabaje con subredes, ya que identifica a las subredes.
+d.	Las respuestas A y B son ambas correctas.
+4
+
+¿Cuál será el rango de direcciones IP válidas para Hosts de la subred 8º de la red 135.20.0.0 si queremos al menos 14 subredes útiles?
+a.	135.20.128.0 – 135.20.143.255
+b.	135.28.0.0 – 135.28.255.255
+c.	135.20.112.1 – 135.20.127.254
+d.	135.20.8.1 – 135.20.8.254
+3
+
+¿Qué conocemos como NAT en lo referente a las conexiones?
+a.	Es la asignación utilizada por los routers IP para intercambiar paquetes entre dos conexiones externas, de forma que permite que un ordenador con una IP interna pueda mandar información mediante una externa.
+b.	Se trata de un protocolo que establece las prioridades de asignación de direcciones IP mediante una tabla de direcciones gestionadas y asignadas por el router.
+c.	Se trata de una funcionalidad de los routers que permite a los ordenadores de una red interna comunicarse entre ellos.
+d.	A y B son correctas.
+1
+
+¿Cuantos bits tiene una dirección ip v4?
+-8
+-16
+-32
+-64
+3
+
+¿Qué necesitas para que te asignen una dirección ip automáticamente?
+-ftp
+-sftp
+-dhcp
+-dns
+3
+
+¿Cuál es la dirección ip v4 para llamarse a si mismo?
+-127.0.0.1
+-192.168.3.1
+-127.0.0.255
+-192.168.5.98
+1
+
+¿Cuál es la principal ventaja de las redes inalámbricas?
+-La movilidad y libertad de movimientos de los equipos.
+-La facilidad de implementar la red en un tiempo mucho menor que el que llevaría una red convencional y sin afectar la infraestructura del edificio existente. Se consiguen conexiones que serían inviables con otro tipo de medio por limitantes arquitectónicos o de distancias, o por estar prohibido tender cableado.
+-La flexibilidad, porque con la misma facilidad con que se instala, se desinstala. Esto elimina la necesidad de levantar el cableado existente en el caso de un traslado.
+-todas las anteriores son ciertas.
+4
+
+¿Con que aspectos tiene que ver la seguridad?
+-Confidencialidad: mantenerla lejos de personas no autorizadas.
+ -Integridad: impedir que pueda ser modificada o borrada.
+ -Disponibilidad: permitir que pueda ser consultada en cualquier momento
+-Todas las anteriores son ciertas.
+4
+
+¿Qué significa wep?
+-Wireless Equivalent Privacy
+-Wired Equivalent Privacy
+-Wireless Equivalent Politic
+-Son las paginas esas de internet como gugle, ¿no?
+2
+
+¿Cuál no es un tipo de dirección ip?
+-direcciones de red
+-direcciones de broadcast
+-dirección de acceso
+-direcciones de equipo
+3
+
+¿En una ip de clase b, cual sería su broadcast?
+x.x.255.255
+x.255.255.255
+255.255.255.255
+x.x.x.255
+1
+
+¿qué hace el siguiente comando?:”Sudo apt-get update”
+-actualiza la base de datos de virus con voz sensual
+-actualiza la base de datos de paquetes del sistema.
+-actualiza Linux a su versión mas reciente
+-actualiza Windous a su versión mas reciente
+2
